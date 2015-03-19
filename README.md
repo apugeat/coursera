@@ -1,6 +1,5 @@
-# coursera
-coursera.org
+# coursera.org
 
 TODO :
 
-0 - Mindmap
+Mindmap v0
